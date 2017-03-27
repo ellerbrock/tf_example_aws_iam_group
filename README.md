@@ -1,4 +1,4 @@
-# tf_straycat_aws_iam_group
+# tf_example_aws_iam_group
 Manages groups in AWS IAM
 
 ## Variables
